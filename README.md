@@ -6,12 +6,21 @@
 ---
 
 <p align="center">
-  📍 **Pune, Maharashtra, India**  
-  📞 **+91 9146393025**  
-  📧 [sanketbalasoshinde@gmail.com](mailto:sanketbalasoshinde@gmail.com)  
-  🔗 [LinkedIn](https://linkedin.com/in/sanket-shinde-3ba68026a/)  
-  🔗 [GitHub](https://github.com/sanketshinde2)  
+  📍 Pune, Maharashtra, India <br>
+  📞 <strong>+91 9146393025</strong> <br><br>
+  <a href="mailto:sanketbalasoshinde@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sanket-shinde-3ba68026a/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sanketshinde2">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40" />
+  </a>
 </p>
+
 
 ---
 
